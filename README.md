@@ -1,4 +1,4 @@
-<img src="tweets.png" align="right" />
+<img width=150 src="tweets.png" align="right" />
 
 Twisource client
 ================
