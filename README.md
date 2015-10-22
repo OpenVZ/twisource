@@ -1,5 +1,7 @@
-Twi client
-==========
+<img src="tweets.png" align="right" />
+
+Twisource client
+================
 
 Allows updating status on Twitter from source file.
 
