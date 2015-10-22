@@ -1,9 +1,10 @@
 <img width=150 src="tweets.png" align="right" />
 
-Twisource client
-================
+Twisource
+=========
 
-Allows updating status on Twitter from source file.
+- is a Twitter client. It allows you to update status on Twitter from source
+file.
 
 ## Installation
 
